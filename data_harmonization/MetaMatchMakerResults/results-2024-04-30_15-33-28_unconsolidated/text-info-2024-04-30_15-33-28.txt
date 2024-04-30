@@ -1,0 +1,7 @@
+Input files: source_variables.csv, target_variables.csv
+Minimum score: 0.75
+Excluded terms: 
+Consolidating results? (yes/no): no
+Included result files: metamatch-predictions-2024-04-30_15-33-28.csv, first-input-without-matches-2024-04-30_15-33-28.csv, second-input-without-matches-2024-04-30_15-33-28.csv
+Timestamp for time of search: 1714491208.785774
+Time of search: 2024-04-30 15:33:28.785774+00:00

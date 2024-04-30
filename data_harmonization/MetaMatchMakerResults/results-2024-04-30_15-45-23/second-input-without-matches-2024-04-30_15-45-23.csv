@@ -1,0 +1,594 @@
+Unnamed: 0,text
+1,Cohort Member number within an MCS family   
+7,DV Cohort Member Ethnic Group merged (England)   [counts less than 30 recoded]
+8,DV Cohort Member Ethnic Group (merged) (Wales)   [counts less than 30 recoded]
+9,DV Cohort Member Ethnic Group (merged) (Scotland)    [counts less than 30 recoded]
+10,DV Cohort Member Ethnic Group (merged) (N Ireland)   [counts less than 30 recoded]
+11,DV Cohort Member Ethnic Group - 6 category Census class 
+12,DV Cohort Member Ethnic Group - 11 category Census class
+13,DV Cohort Member Ethnic Group - 8 category classification   
+15,DV Birth of Cohort Member: Number of days early or lat  
+16,DV Cohort Member Gestation time in days 
+19,DV Cohort Member Ethnic Group merged (England)  
+20,DV Cohort Member Ethnic Group (merged) (Wales)  
+21,DV Cohort Member Ethnic Group (merged) (Scotland)   
+22,DV Cohort Member Ethnic Group (merged) (N Ireland)  
+26,Interview Government Office Region  
+27,DV Parent Interview response summary
+29,DV Summary of Parents/Carers in Household   
+33,DV Natural father status
+34,DV Natural father in HH 
+42,DV Whether any foster siblings in household 
+44,DV Whether any other adults in household
+45,DV Number of people in household (not including CM) 
+47,DV Combined labour market status of Main and Partner
+49,"Family receiving JSA, IS, WFTC and/or DPTC  "
+50,DV Total time at current address in months  
+51,DV 3 digit outcome field
+52,DV Fieldwork errors 
+53,Dual Baby Families  
+55,Point type  
+61,DV OECD below 60% median poverty indicator  
+64,DV McClements below 60% median poverty indicator
+65,HHGrid:Check for part-time resident parent  
+66,HHGrid:Natural parent died before or after birth
+67,DV Housing Tenure   
+72,DV Flag for imputed income  
+75,DV OECD Income Weighted Quintiles (Single Country Analysis) 
+76,"Person number within an MCS family (excl Cohort Members, see CNUM)  "
+77,Eligibility for survey: Whether resp eligible for role of Main /(Proxy)Partner  
+78,Response in survey: Whether respondent (of ELIG) participated in interview  
+79,Interview Date (month)  
+89,Present in Sweep 1  
+91,Relationship to Cohort Member   
+103,Is person currently in work or not  
+104,Resident full-time of part-time 
+105,HHGrid:Whether away for whole fieldwork period (person 2)   
+106,HHGrid:Whether incapacitated (person 2) 
+107,Person Number for Main or Partner respondent
+108,Eligibility for interview (Main / (Proxy)Partner respondent role)   
+109,Lonstanding illness (ICD10 code)
+110,Residence away from parents pre17   
+111,Residence away from parents pre 17 NI   
+114,Day of hearing test 
+116,Problems at birth or in first week MC1  
+117,Problems at birth or in first week MC2  
+118,Problems at birth or in first week MC3  
+119,Problems at birth or in first week MC4  
+120,Problems at birth or in first week MC5  
+121,Problems at birth or in first week MC6  
+122,Problems at birth or in first week MC7  
+135,Whether lived apart from baby   
+136,Duration of separation (unit)   
+137,Duration of separation (weeks)  
+138,Duration of separation (months) 
+146,Complications during labour MC1 
+147,Complications during labour MC2 
+148,Complications during labour MC3 
+149,Complications during labour MC4 
+150,Complications during labour MC5 
+151,Whether baby went to special care etc   
+152,Was baby in special care etc in same hospital   
+157,Problems at birth or in first week MC1 recoded  
+158,Problems at birth or in first week MC2 recoded  
+159,Problems at birth or in first week MC3 recoded  
+160,Problems at birth or in first week MC4 recoded  
+161,Problems at birth or in first week MC5 recoded  
+162,Problems at birth or in first week MC6 recoded  
+163,Problems at birth or in first week MC7 recoded  
+164,Ever tried to breastfeed
+179,Had any immunisations   
+180,Has all immunisations   
+181,Reasons not had any immunisations MC1   
+182,Reasons not had any immunisations MC2   
+183,Reasons not had any immunisations MC3   
+184,Reasons not had all immunisations MC1   
+185,Reasons not had all immunisations MC2   
+186,Reasons not had all immunisations MC3   
+187,Immunisations info from Red Book?   
+188,Had hearing test
+189,Month of hearing test   
+190,Year of hearing test
+193,Hearing test info from Red Book?
+196,Number of accidents or injuries 
+197,Type of accident/injury (first) R1 MC1  
+198,Type of accident/injury (first) R1 MC2  
+199,Type of accident/injury (first) R1 MC3  
+202,Type of accident/injury (second) R2 MC1 
+203,Type of accident/injury (second) R2 MC2 
+206,Type of accident/injury (third) R3 MC1  
+207,Type of accident/injury (third) R3 MC2  
+210,Type of accident/injury (fourth) R4 MC1 
+211,Type of accident/injury (fourth) R4 MC2 
+212,Type of accident/injury (fourth) R4 MC3 
+215,Number of hospital admissions   
+216,Reason for hospital admission R1
+218,Reason for hospital admission R2
+220,Reason for hospital admission R3
+222,Reason for hospital admission R4
+224,Development: smiles 
+227,Development: hands together 
+228,Development: grabs objects  
+229,Development: holds small objects
+230,Development: passes a toy   
+231,Frequency take child to park or playground  
+232,Development: gives toy  
+233,Development: waves bye-bye  
+234,Does CM extend his arms for being picked up?
+235,Development: nods for yes   
+236,Can move from place to place
+238,Room baby usually sleeps in MC1 
+239,Room baby usually sleeps in MC2 
+240,Room baby usually sleeps in MC3 
+241,Bed baby usually sleeps in MC1  
+242,Bed baby usually sleeps in MC2  
+243,Bed baby usually sleeps in MC3  
+244,Response to baby crying 
+245,Whether baby crying is a problem
+259,Childcare while at work/college MC1 
+260,Childcare while at work/college MC2 
+261,Childcare while at work/college MC3 
+262,Childcare while at work/college MC4 
+263,Childcare while at work/college MC5 
+264,Childcare while at work/college MC6 
+265,Childcare while at work/college MC7 
+266,Main childcare while at work/college
+267,Looks after other children as well  
+268,Only adult looking after baby   
+272,Pleasant first arriving in unfamiliar places.   
+274,Content during interruptions of feeding.
+275,Pleasant or calm with minor injuries
+276,Objects to bathing - different place/person 
+277,Wary of strangers after 15 minutes. 
+278,Shy on first meeting another child  
+279,Fretful in a new place or situation 
+280,Bothered at first by different sleeping place.  
+282,Sleepy at about the same time each evening  
+284,Solid food at about the same time   
+289,Person Number for Main or (Proxy)Partner respondent 
+290,Eligibility for Interview   
+291,Response to Interview   
+292,respondent identity and interview status
+297,Respondent's Ethnic Group inc back-coding (England) 
+298,Respondent's Ethnic Group inc back-coding (Wales)    [counts less than 30 recoded]
+299,Respondent's Ethnic Group inc back-coding (Scotland) [counts less than 30 recoded]
+300,Respondent's Ethnic Group inc back-coding (N Ireland)   
+301,Respondent's Ethnic Group - 6 category Census   
+302,Respondent's Ethnic Group - 11 category Census  
+303,Respondent's Ethnic Group - 8 category classification   
+304,Respondent NVQ highest level
+305,Respondent: Religion - combined GB & NI  [counts less than 30 recoded]
+307,DV Whether main respondent is in work or not
+308,Respondent NS-SEC full version  
+310,Respondent NS-SEC 7 classes 
+311,Respondent NS-SEC 5 classes 
+312,Main Interview outcome code 
+313,ADMIN Main interview in english or other language   
+314,ADMIN Language of main interview
+315,Who translated interview?   
+321,DV NS-SEC full version (last known job) 
+322,DV NS-SEC major categories (last known job) 
+323,DV NS-SEC 7 classes (last known job)
+324,DV NS-SEC 5 classes (last known job)
+326,NVQ equivalent of highest Academic qualification
+327,Respondent's Ethnic Group inc back-coding (Wales)   
+328,Respondent's Ethnic Group inc back-coding (Scotland)
+329,Respondent: Religion - combined GB & NI 
+331,Other Ethnic group (coded)  
+332,Type of fertility treatment MC1 
+333,Type of fertility treatment MC2 
+334,Type of fertility treatment MC3 
+335,Type of fertility treatment MC4 
+337,Whether has Red Book
+343,Non-res. parents Ethnic Group (England)  [counts less than 30 recoded]
+344,Non-res. parents Ethnic Group (Wales)    [counts less than 30 recoded]
+345,Non-res. parents Ethnic Group (Scotland) [counts less than 30 recoded]
+346,Non-res. parents Ethnic Group (NI)  
+349,Relationship with part-time resident partner
+350,Whether lived together before marriage  
+351,Year started living together
+352,Month started living together   
+353,Year got married
+354,Month got married   
+356,Whether respondent was born in the UK   
+358,Year stopped living together
+359,Month stopped living together   
+360,Year stopped living together all the time   
+361,Month stopped living together all the time  
+362,Year started living with current partner
+363,Month started living with husband/wife/partner  
+364,Difference in months between dates  
+369,Ever been a lone parent 
+370,Year this period of lone parenthood started 
+371,Month this period of lone parenthood started
+372,Year this period of lone parenthood ended   
+373,Month at end of period of lone parenthood   
+374,Year current period of lone parenthood started  
+375,Month current period of lone parenthood started 
+376,Whether contact with non-res. natural parent R1 
+377,Whether contact with non-res. natural parent R2 
+379,Frequency of contact with baby R1   
+380,Does absent parent contribute to maintenance
+382,Expected duration of foster care (unit) 
+385,Frequency looks after baby on own   
+386,Frequency changes babys nappy   
+387,Frequency feeds baby
+389,Month this period of lone parenthood ended  
+390,Planned pregnancy   
+392,How long to conceive (days) 
+393,How long to conceive (weeks)
+394,How long to conceive (months)   
+395,How long to conceive (years)
+396,Whether had fertility treatment 
+398,Weeks when pregnancy was confirmed  
+399,Whether received ante-natal care
+400,Weeks when first received ane-natal care
+401,Whether attended ante-natal classes 
+402,Any illnesses or problems during pregnancy  
+403,Type of illness/problem during preg MC1 
+404,Type of illness/problem during preg MC2 
+405,Type of illness/problem during preg MC3 
+406,Type of illness/problem during preg MC4 
+407,Type of illness/problem during preg MC5 
+408,Type of illness/problem during preg MC6 
+409,Type of illness/problem during preg MC7 
+410,Admitted to hospital for illness or problem R1  
+411,Admitted to hospital for illness or problem R2  
+412,Admitted to hospital for illness or problem R3  
+413,Admitted to hospital for illness or problem R4  
+414,Admitted to hospital for illness or problem R5  
+415,Admitted to hospital for illness or problem R6  
+416,Admitted to hospital for illness or problem R7  
+417,Admitted to hospital for illness or problem R8  
+418,Admitted to hospital for illness or problem R9  
+419,Admitted to hospital for illness or problem R10 
+423,How long stayed in hosptial (unit)  
+424,How long stayed in hosptial (weeks) 
+425,How long stayed in hosptial (days)  
+431,Labour induced  
+432,Type of delivery MC1
+433,Type of delivery MC2
+434,Type of delivery MC3
+441,Duration of labour  
+444,Plan to have any more children  
+445,Type of fertility treatment MC1 recoded 
+446,Type of fertility treatment MC2 recoded 
+447,Type of fertility treatment MC3 recoded 
+448,Type of fertility treatment MC4 recoded 
+450,On leave/returned to work   
+451,Same/different childcare arrangements   
+452,Any childcare at other times
+453,Whether twins/triplets usually looked after together
+454,Childcare at other times MC1
+455,Childcare at other times MC2
+456,Childcare at other times MC3
+457,Childcare at other times MC4
+458,Childcare at other times MC5
+459,Childcare at other times MC6
+460,Pays for childcare  
+462,Amount paid for childcare   
+464,Whether parent-respondent s father is alive 
+465,Respondent s parents ever separated 
+468,Total time resp spent in care   
+469,In care when left school?   
+470,How often do you see your natural mother?   
+471,Change in contact with mother since birth   
+472,How often do you see your natural father?   
+473,Change in contact with father since birth   
+484,How often you spent time with friends in the past week  
+485,Support sought since birth MC1  
+486,Support sought since birth MC2  
+487,Support sought since birth MC3  
+488,Support sought since birth MC4  
+489,Support sought since birth MC5  
+495,Heard of Sure Start 
+496,Used Sure Start 
+497,Heard of Early Steps
+498,Residence away from parents pre17 - recoded 
+499,Residence away from parents pre17 NI - recoded  
+501,Whether respondent has longstanding illness 
+502,Whether longstanding illness limits activities  
+503,Health Conditions: Migraine 
+505,Health Conditions: Bronchitis   
+508,Health Conditions: Back Pain
+518,Type of Digestive or Bowel Trouble MC1  
+519,Type of Digestive or Bowel Trouble MC2  
+520,Type of Digestive or Bowel Trouble MC3  
+522,Whether ever diagnosed with depresion/serious anxiety   
+523,Whether currently treated for depression or anxiety 
+550,Number of units in average week 
+551,Number of units in average day  
+552,Frequency of alcohol consumption during pregnancy?  
+553,Number of units in average week before pregnancy
+554,Number of units in average day before pregnancy 
+555,Lonstanding illness (ICD10 code)truncated   
+556,Whether accepted self-completion
+557,Reasons for refusing self-completion MC1
+558,Reasons for refusing self-completion MC2
+559,Reasons for refusing self-completion MC3
+560,Reasons for refusing self-completion MC4
+561,Reasons for refusing self-completion MC5
+563,Regular sleeping and eating 
+564,Stimulation for development 
+565,Importance of talking   
+566,Importance of cuddling  
+568,Think about baby when apart 
+569,Feelings when leave baby
+570,Feelings when caring for baby   
+571,Feelings of patience when with baby 
+572,Feelings about giving up things due to baby 
+573,Tired most of time  
+576,Often gets in violent rage  
+580,Every little thing gets on nerves   
+582,Have no one to share feelings with  
+583,Other parents can talk to   
+584,Family would help if had financial problems 
+585,Partner is sensistive to and aware of respondents needs 
+588,Relationship full of joy and excitement 
+589,Wishes was more warmth and affection
+590,Respondent likely to separate from partner  
+592,Effect of having baby on relationship   
+593,How often do you go out as a couple without any children
+595,Partner ever used force in relationship 
+596,Ever lived with anyone else as a couple apart from partner  
+597,Number of partners respondent lived with
+598,Most responsibility for feeding 
+600,Who mostly cooks main meal  
+601,Mostly cleans the home  
+602,Mostly does laundry and ironing 
+605,Who mostly looks after children when they are ill   
+606,Who mostly is with or looks after children  
+607,Any paid domestic help  
+608,Change in housework done by partner since birth 
+609,Any other children at all not living in HH now  
+610,How many children not living in HH now  
+618,Year last lived with R1 
+620,Whether makes regular maintenance payment R1
+628,Year last lived with R2 
+630,Whether makes regular maintenance payment R2
+638,Year last lived with R3 
+640,Whether makes regular maintenance payment R3
+646,Frequency of contact R4 
+648,Year last lived with R4 
+650,Whether makes regular maintenance payment R4
+658,Year last lived with R5 
+660,Whether makes regular maintenance payment R5
+668,Year last lived with R6 
+670,Whether makes regular maintenance payment R6
+678,Year last lived with R7 
+680,Whether makes regular maintenance payment R7
+688,Year last lived with R8 
+690,Whether makes regular maintenance payment R8
+698,Year last lived with R9 
+700,Whether makes regular maintenance payment R9
+708,Year last lived with R10
+710,Whether makes regular maintenance payment R10   
+712,Child suffers if mother works before school 
+713,Family life suffers when woman has full-time job
+714,Mother and family happier if she goes to work   
+715,All right to have children without being married
+716,Fathers involvement in upbringing   
+717,Single parent bringing up children  
+718,Wouldn t mind CM attending mixed race (50/50) school
+719,Children another religion at school 
+721,Family from another religion as neighbours  
+722,All right for different races to get married.   
+723,All right for different religions to get married
+724,Learning boosts confidence. 
+725,Couples who have children should not separate   
+727,Education helps you to be a better parent.  
+728,"RosenbergGrid: On the whole, I am satisfied with myself "
+729,Thinks is no good at all at times   
+731,Feels useless at times  
+734,Gets what wants out of life 
+735,Have control over life  
+736,Run life the way you want to
+738,End of self-completion  
+739,Paid work status (derived)  
+740,Employee/self-employed current/most recent job  
+742,Year last job ended 
+743,Month last job ended
+745,Still with same employer
+746,When stopped work before birth  
+747,When stopped work before birth (Days)   
+748,When stopped work before birth (Weeks)  
+749,Whether job finished or went on leave   
+750,How long on leave   
+751,How long on leave (Days)
+752,How long on leave (Weeks)   
+753,How long on leave (Months)  
+755,Paid work since birth   
+756,Month returned/started work 
+757,Year returned/started work  
+758,Same/diff. employer 
+759,Reason decided to start/return to work MC1  
+760,Reason decided to start/return to work MC2  
+761,Reason decided to start/return to work MC3  
+762,Reason decided to start/return to work MC4  
+763,Reason decided to start/return to work MC5  
+764,Reason decided to start/return to work MC6  
+765,Looked for paid work since birth
+772,Whether plans to look for work in future
+775,Month last had a job before pregnancy   
+776,Year last had a job before pregnancy
+778,Whether still with same employer
+780,Economic activity status (for non-working)  
+781,Leave taken since birth 
+782,Type of leave taken MC1 
+783,Type of leave taken MC2 
+784,Type of leave taken MC3 
+785,Type of leave taken MC4 
+786,Whether any leave was paid  
+787,Whether previous job was full-time or part-time 
+788,Whether employee or self-employed in main job   
+790,Whether respondent supervises more than 25 people   
+791,Year started job
+792,Month started job   
+793,Types of flexible working offered MC1   
+794,Types of flexible working offered MC2   
+795,Types of flexible working offered MC3   
+796,Types of flexible working offered MC4   
+797,Types of flexible working offered MC5   
+798,Types of flexible working offered MC6   
+799,Types of flexible working offered MC7   
+800,Types of flexible working offered MC8   
+813,Family-friendly practices used MC1  
+814,Family-friendly practices used MC2  
+815,Family-friendly practices used MC3  
+816,Family-friendly practices used MC4  
+817,Family-friendly practices used MC5  
+818,Family-friendly practices used MC6  
+819,Number of people who work at workplace  
+820,Number of people employees (self-employed)  
+825,Overtime: paid or unpaid
+830,Number of days per week do you work in your job?
+833,Frequency works at weekends 
+834,Frequency works away from home overnight
+835,Journey time from home to work  
+836,Reasons in paid work MC1
+837,Reasons in paid work MC2
+838,Reasons in paid work MC3
+839,Reasons in paid work MC4
+840,Reasons in paid work MC5
+841,Reasons in paid work MC6
+848,NET take-home pay last time 
+850,Net pay inc tax credits MC1 
+851,Net pay inc tax credits MC2 
+852,Net pay inc tax credits MC3 
+853,Gross pay last time 
+857,Net amount earned from 2nd/odd job (Self Emp. Pay)  
+858,Number of hours worked 2nd/odd job (Self Emp. Pay) (range)  
+859,Whether receiving state benefits/payments   
+860,Which benefits jointly receiving MC1
+861,Which benefits jointly receiving MC2
+862,Which benefits jointly receiving MC3
+863,Which benefits jointly receiving MC4
+864,Which benefits jointly receiving MC5
+865,Which benefits jointly receiving MC6
+866,Which benefits jointly receiving MC7
+867,Which benefits jointly receiving MC8
+868,Receives childcare tax-credit as part of WFTC   
+869,WFTC + ChildCareTC  
+870,Childcare tax credit
+878,Type of accounts held MC1   
+879,Type of accounts held MC2   
+880,Impact of baby on savings   
+882,Better/Worse off than year ago  
+883,Reasons why better off MC1  
+884,Reasons why better off MC2  
+885,Reasons why better off MC3  
+886,Reasons why better off MC4  
+887,Reasons why worse off MC1   
+888,Reasons why worse off MC2   
+889,Reasons why worse off MC3   
+890,Reasons why worse off MC4   
+891,Who present during financial questions  
+892,Who answered financial questions
+894,Highest academic qualification  
+895,Highest vocational qualification
+896,"Use a computer at work, college or home "
+897,Whether linked to internet  
+899,Whether able to read and fill out forms 
+900,Respondent s numeracy. Can you usually tell if you have right change?   
+901,Whether respondent has literacy/numeracy problems in day-to-day activities  
+903,SOC2000 (without dots) - truncated to 3 digits  
+905,Month moved to current address  
+906,Type of accommodation   
+907,Which floor living accommodation is on  
+908,Tenure of current home (owns/rents) 
+909,Reasons moved out of previous address MC1   
+910,Reasons moved out of previous address MC2   
+911,Reasons moved out of previous address MC3   
+912,Reasons moved out of previous address MC4   
+913,Reasons moved out of previous address MC5   
+914,Homeless since babys birth  
+915,Whether still homeless  
+917,Accommodation while homeless MC1
+918,Accommodation while homeless MC2
+919,Duration of homelessness
+920,Duration of homelessness (weeks)
+921,Duration of homelessness (months)   
+922,Has access to a garden  
+923,Types of heating used MC1   
+924,Types of heating used MC2   
+925,Types of heating used MC3   
+926,Types of heating used MC4   
+927,Problems with damp condensation in your home?   
+928,Working telephone in home   
+929,Safety appliances in home MC1   
+930,Safety appliances in home MC2   
+931,Safety appliances in home MC3   
+932,Safety appliances in home MC4   
+933,Safety appliances in home MC5   
+934,Durable ownership MC1   
+935,Durable ownership MC2   
+936,Durable ownership MC3   
+937,Durable ownership MC4   
+938,Durable ownership MC5   
+939,Durable ownership MC6   
+940,Durable ownership MC7   
+941,Durable ownership MC8   
+942,Vehicle useage  
+943,Number of vehicles had use of   
+944,Satisfaction with home  
+945,Satisfaction with area  
+946,Noisy neighbours
+947,How common are rubbish or litter in the area?   
+948,How common are vandalism and damage to property in the area?
+949,How common are racist insults/attacks in the area?  
+950,How common are religious insults/attacks in the area?   
+952,Food shops/supermarkets in easy access  
+954,Any places where children can play safely   
+956,Whether voted in General Election (in last year / 2002) 
+959,Attendance at religious meetings
+960,Reads a morning newspaper 3 times a week
+961,Amount of time with baby
+962,Reasons nowhere near enough time MC1
+963,Reasons nowhere near enough time MC2
+964,Reasons nowhere near enough time MC3
+965,Reasons nowhere near enough time MC4
+981,Non-res. parents Ethnic Group (England) 
+982,Non-res. parents Ethnic Group (Wales)   
+983,Non-res. parents Ethnic Group (Scotland)
+984,Ethnic Group (England)  
+985,Ethnic Group (Wales)
+986,Ethnic Group (Scotland) 
+987,Ethnic Group (NI)   
+1003,SOC2000 (without dots)  
+1004,NS-SEC - long version   
+1006,PXQ SOC2000 (without dots)  
+1007,Reason for proxy partner IW (main responds as a proxy about partner) (A)
+1008,PXQ Other Ethnic group (coded)  
+1009,PXQ Ethnic Group (England)  
+1010,PXQ Ethnic Group (Scotland) 
+1011,PXQ person number of proxy  
+1012,PXQ Martial status  
+1013,PXQ Ethnic Group (England)   [counts less than 5 recoded]
+1014,Ethnic Group (Wales) [counts less than 5 recoded]
+1015,PXQ Ethnic Group (Scotland)  [counts less than 5 recoded]
+1016,How often does PROXY partner see natural mother?
+1017,How often does PROXY partner see natural father?
+1030,PXQ Paid work since birth   
+1031,PXQ Whether ever had a paid job 
+1032,PXQ Leave taken since birth 
+1033,PXQ Type of leave taken since birth MC1 
+1034,PXQ Type of leave taken since birth MC2 
+1035,PXQ Type of leave taken since birth MC3 
+1036,PXQ Whether any leave was paid  
+1038,PXQ Year started job
+1039,PXQ Month started job   
+1040,PXQ Number of people in place where works   
+1041,PXQ Year job ended  
+1042,PXQ Month job ended 
+1043,PXQ Number of days per week do you work in your job?
+1044,How often partner works in the evening  
+1045,PXQ Take-home pay last time 
+1046,PXQ Gross pay last time 
+1048,PXQ Highest vocational qualification
+1049,PXQ Any other children at all not living in HH now  
+1051,PXQ Frequency sees other children   
+1052,PXQ Made regular maintenance payment for other child
+1053,PXQ SOC2000 (without dots)   [truncated to 3 characters]
+1054,PXQ NS-SEC - long version   
+1055,Reason for proxy partner interview (A) - recoded
+1057,Interview Date (day)
